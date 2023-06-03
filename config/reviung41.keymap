@@ -35,10 +35,10 @@
             //                         | ALT | LWR | SPC | RSE  | ALT |
 
             bindings = <
-&kp ESCAPE  &ht Q KP_NUMBER_1  &ht W KP_NUMBER_2    &ht F KP_NUMBER_3  &ht P KP_NUMBER_4  &ht D KP_NUMBER_5             &ht J KP_NUMBER_6  &ht L KP_NUMBER_7       &ht U KP_NUMBER_8           &ht Y KP_NUMBER_9  &ht SEMI KP_NUMBER_9  &kp BSPC
- &kp LCTRL           &ht A AT        &ht R POUND      &ht S AMPERSAND        &ht T ASTRK     &ht G KP_MINUS                 &ht H KP_PLUS     &ht N KP_EQUAL  &ht E LEFT_PARENTHESIS  &ht I KP_RIGHT_PARENTHESIS         &ht O PERCENT   &kp SQT
- &kp LSHFT        &ht Z UNDER       &ht X DOLLAR  &ht C DOUBLE_QUOTES   &ht V APOSTROPHE        &ht B COLON                    &ht K SEMI    &ht M BACKSLASH               &kp COMMA                     &kp DOT              &kp FSLH  &kp LALT
-                                                             &kp LALT              &mo 1                     &kp SPACE                                 &mo 2                &kp RGUI
+  &kp ESCAPE  &ht Q KP_NUMBER_1  &ht W KP_NUMBER_2    &ht F KP_NUMBER_3  &ht P KP_NUMBER_4  &ht D KP_NUMBER_5                    &ht J KP_NUMBER_6  &ht L KP_NUMBER_7       &ht U KP_NUMBER_8           &ht Y KP_NUMBER_9  &ht SEMI KP_NUMBER_9  &kp BSPC
+   &kp LCTRL           &ht A AT        &ht R POUND      &ht S AMPERSAND        &ht T ASTRK     &ht G KP_MINUS                        &ht H KP_PLUS     &ht N KP_EQUAL  &ht E LEFT_PARENTHESIS  &ht I KP_RIGHT_PARENTHESIS         &ht O PERCENT   &kp SQT
+&kp LEFT_GUI        &ht Z UNDER       &ht X DOLLAR  &ht C DOUBLE_QUOTES   &ht V APOSTROPHE        &ht B COLON                           &ht K SEMI    &ht M BACKSLASH               &kp COMMA                     &kp DOT              &kp FSLH     &mo 3
+                                                                  &mo 1        &lt 2 SPACE                     &kp LEFT_CONTROL                        &kp LEFT_SHIFT                &kp RALT
             >;
         };
 
