@@ -67,7 +67,7 @@
             bindings = <
        &kp C_MUTE    &kp PAGE_UP  &kp KP_EQUAL         &kp UP   &kp KP_MINUS   &kp DOLLAR          &kp KP_MULTIPLY  &kp KP_N7        &kp KP_N8  &kp KP_N9  &kp KP_MINUS  &kp BACKSPACE
   &kp C_VOLUME_UP        &kp TAB      &kp LEFT       &kp DOWN      &kp RIGHT    &kp POUND            &kp KP_DIVIDE  &kp KP_N4        &kp KP_N5  &kp KP_N6   &kp KP_PLUS     &kp DELETE
-&kp K_VOLUME_DOWN  &kp PAGE_DOWN  &kp LG(LEFT)  &kp LS(LG(S))  &kp LG(RIGHT)  &kp PERCENT          &kp KP_NUMBER_0  &kp KP_N1        &kp KP_N2  &kp KP_N3    &kp KP_DOT         &trans
+&kp C_VOLUME_DOWN  &kp PAGE_DOWN  &kp LG(LEFT)  &kp LS(LG(S))  &kp LG(RIGHT)  &kp PERCENT          &kp KP_NUMBER_0  &kp KP_N1        &kp KP_N2  &kp KP_N3    &kp KP_DOT         &trans
                                                        &trans         &trans               &trans                   &kp ENTER  &kp LOCKING_NUM
             >;
 
