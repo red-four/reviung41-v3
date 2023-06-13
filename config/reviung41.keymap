@@ -56,10 +56,10 @@
             //                         | ALT | LWR | SPC | RSE  | ALT |
 
             bindings = <
-      &kp ESCAPE  &ht KP_NUMBER_1 Q  &ht KP_NUMBER_2 W    &ht KP_NUMBER_3 F  &ht KP_NUMBER_4 P  &ht KP_NUMBER_5 D                    &ht KP_NUMBER_6 J  &ht KP_NUMBER_7 L       &ht KP_NUMBER_8 U        &ht KP_NUMBER_9 Y  &ht KP_NUMBER_0 SEMICOLON  &kp BSPC
- &ht LA(TAB) TAB      &ht AT_SIGN A         &ht HASH R       &ht QUESTION S         &ht EXCL T     &ht KP_MINUS G                           &ht PLUS H        &ht EQUAL N  &ht LEFT_PARENTHESIS E  &ht RIGHT_PARENTHESIS I              &ht PERCENT O   &kp SQT
-&kp LA(LEFT_GUI)   &ht UNDERSCORE Z       &ht DOLLAR X  &ht DOUBLE_QUOTES C   &ht APOSTROPHE V        &ht COLON B                      &ht SEMICOLON K    &ht BACKSLASH M               &kp COMMA                  &kp DOT                   &kp FSLH     &mo 4
-                                                                      &mo 2        &lt 3 SPACE                     &kp LEFT_CONTROL                        &kp LEFT_SHIFT            &kp LEFT_ALT
+     &kp ESCAPE  &ht KP_NUMBER_1 Q  &ht KP_NUMBER_2 W    &ht KP_NUMBER_3 F  &ht KP_NUMBER_4 P  &ht KP_NUMBER_5 D                    &ht KP_NUMBER_6 J  &ht KP_NUMBER_7 L       &ht KP_NUMBER_8 U        &ht KP_NUMBER_9 Y  &ht KP_NUMBER_0 SEMICOLON  &kp BSPC
+&ht LA(TAB) TAB      &ht AT_SIGN A         &ht HASH R       &ht QUESTION S         &ht EXCL T     &ht KP_MINUS G                           &ht PLUS H        &ht EQUAL N  &ht LEFT_PARENTHESIS E  &ht RIGHT_PARENTHESIS I              &ht PERCENT O   &kp SQT
+   &kp LEFT_GUI   &ht UNDERSCORE Z       &ht DOLLAR X  &ht DOUBLE_QUOTES C   &ht APOSTROPHE V        &ht COLON B                      &ht SEMICOLON K    &ht BACKSLASH M               &kp COMMA                  &kp DOT                   &kp FSLH     &mo 4
+                                                                     &mo 2        &lt 3 SPACE                     &kp LEFT_CONTROL                        &kp LEFT_SHIFT            &kp LEFT_ALT
             >;
         };
 
