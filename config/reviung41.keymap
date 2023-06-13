@@ -65,10 +65,10 @@
 
         gaming {
             bindings = <
-          &kp ESC  &kp Q  &kp W   &kp F   &kp P  &kp D          &kp J   &kp L      &kp U    &kp Y  &kp SEMI  &kp BSPC
-&ht LA(LC(M)) TAB  &kp A  &kp R   &kp S   &kp T  &kp G          &kp H   &kp N      &kp E    &kp I     &kp O   &kp SQT
-      &playswitch  &kp Z  &kp X   &kp C   &kp V  &kp B          &kp K   &kp M  &kp COMMA  &kp DOT  &kp FSLH    &trans
-                                 &trans  &trans         &trans         &trans     &trans
+&kp ESC  &kp Q  &kp W   &kp F   &kp P  &kp D          &kp J   &kp L      &kp U    &kp Y  &kp SEMI  &kp BSPC
+ &trans  &kp A  &kp R   &kp S   &kp T  &kp G          &kp H   &kp N      &kp E    &kp I     &kp O   &kp SQT
+ &trans  &kp Z  &kp X   &kp C   &kp V  &kp B          &kp K   &kp M  &kp COMMA  &kp DOT  &kp FSLH    &trans
+                       &trans  &trans         &trans         &trans     &trans
             >;
 
             label = "Gaming Layout";
