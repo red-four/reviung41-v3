@@ -82,10 +82,10 @@
             //                       |     |     | RET | ADJ |     |
 
             bindings = <
-&kp LA(LC(DELETE))    &kp LG(E)    &playswitch  &kp LC(LS(E))     &kp LC(LS(I))  &kp LS(LC(ESCAPE))               &kp CARET            &kp AMPS    &kp PAGE_UP  &recmute    &playswitch              &kp DEL
-            &trans  &kp AT_SIGN  &kp AMPERSAND   &kp QUESTION          &kp EXCL            &kp PIPE            &kp LS(LEFT)  &kp LC(LEFT_ARROW)       &kp HOME   &kp END  &kp LC(RIGHT)  &kp LS(RIGHT_ARROW)
-            &trans    &kp TILDE      &kp UNDER  &kp BACKSLASH  &kp LEFT_BRACKET   &kp RIGHT_BRACKET          &kp LEFT_BRACE     &kp RIGHT_BRACE  &kp PAGE_DOWN   &kp INS      &kp PSCRN               &trans
-                                                       &trans            &trans                      &trans                           &kp ENTER         &trans
+&kp LA(LC(DELETE))    &kp LG(E)  &kp LC(LA(LS(M)))  &kp LC(LS(E))     &kp LC(LS(I))  &kp LS(LC(ESCAPE))               &kp CARET            &kp AMPS    &kp PAGE_UP  &recmute    &playswitch              &kp DEL
+            &trans  &kp AT_SIGN      &kp AMPERSAND   &kp QUESTION          &kp EXCL            &kp PIPE            &kp LS(LEFT)  &kp LC(LEFT_ARROW)       &kp HOME   &kp END  &kp LC(RIGHT)  &kp LS(RIGHT_ARROW)
+            &trans    &kp TILDE          &kp UNDER  &kp BACKSLASH  &kp LEFT_BRACKET   &kp RIGHT_BRACKET          &kp LEFT_BRACE     &kp RIGHT_BRACE  &kp PAGE_DOWN   &kp INS      &kp PSCRN               &trans
+                                                           &trans            &trans                      &trans                           &kp ENTER         &trans
             >;
         };
 
